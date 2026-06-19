@@ -45,6 +45,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [🔩 Steel Products Calculator](https://github.com/Nick70o/calculadora-siderurgica) | Web calculator that converts weight, length, and pieces for 40+ steel products, with local persistence — built to speed up quoting. | HTML, CSS, JavaScript |
 | [🕒 Portal de Pontos](https://github.com/Nick70o/portal-de-pontos) | Desktop app that reads AFD time-clock files (Brazilian Ordinance 671) and automatically generates per-employee Excel timesheets. | Python, Tkinter, openpyxl |
 | [🏗️ Site Nova Steel](https://github.com/Nick70o/site-nova-steel) | Responsive landing page for a steel & iron supplier, with a product showcase and WhatsApp quote requests. | HTML, CSS, JavaScript |
 
