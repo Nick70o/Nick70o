@@ -10,7 +10,8 @@
 ### 👨‍💻 About me
 
 - 💡 Passionate about **solving real problems with code** — I automate tasks and build everyday solutions.
-- 📊 Focused on **Data Analysis**: turning data into useful information for decision-making.
+- 🧩 Focused on **software development**: desktop apps, web APIs, and integrations between systems (ERP, databases, Google APIs).
+- 📊 I enjoy **data work too**: turning data into useful information for decision-making.
 - 🌱 Studying **Information Systems** and deepening my skills in **Python, C#/.NET, SQL, and web development**.
 - 🗣️ **English: C2 (Proficient)**.
 - 📍 Barra Mansa, RJ — Brazil. Open to Volta Redonda / Barra Mansa and remote.
