@@ -60,7 +60,7 @@
 | [🔩 Steel Products Calculator](https://github.com/Nick70o/calculadora-siderurgica) | Web calculator that converts weight, length, and pieces for 40+ steel products, with local persistence — built to speed up quoting. | HTML, CSS, JavaScript |
 | [🕒 Portal de Pontos](https://github.com/Nick70o/portal-de-pontos) | Desktop app that reads AFD time-clock files (Brazilian Ordinance 671) and automatically generates per-employee Excel timesheets. | Python, Tkinter, openpyxl |
 | [🏗️ Site Nova Steel](https://github.com/Nick70o/site-nova-steel) | Responsive landing page for a steel & iron supplier, with a product showcase and WhatsApp quote requests. | HTML, CSS, JavaScript |
-| 📋 Cotação de Pedidos | Windows desktop app that connects an ERP (SQL Server) to Google Sheets so suppliers can fill in purchase-order prices; imports them back in a single transaction. 3-layer architecture. | C#, .NET 10, Windows Forms, SQL Server, Google Sheets/Drive API |
+| [📋 Cotação de Pedidos](https://github.com/Nick70o/cotacao-pedidos) | Windows desktop app that connects an ERP (SQL Server) to Google Sheets so suppliers can fill in purchase-order prices; imports them back in a single transaction. 3-layer architecture. | C#, .NET 10, Windows Forms, SQL Server, Google Sheets/Drive API |
 
 ---
 
