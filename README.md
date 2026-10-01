@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicolas 👋</h1>
 
 <p align="center">
-  <b>Information Systems Student | Aspiring Data Analyst</b><br>
+  <b>Information Systems Student | Junior Developer</b><br>
   Python · C# · SQL · Web — turning data into useful information, open to opportunities in IT 🚀
 </p>
 
